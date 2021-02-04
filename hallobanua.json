@@ -1,0 +1,40 @@
+{
+  "name": "Hallobanua",
+  "short_name": "Hallobanua",
+  "start_url": "https://www.hallobanua.com/",
+  "display": "standalone",
+   "background_color": "#fc01bb",
+  "theme_color": "#171717",
+  "description": "Informasi Banua Terdepan Dalam Satu Klik",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-s5DTBUQkG_Q/YBvm_TiAnvI/AAAAAAAACTw/BHbDud8GuYESLO-uNyHzupbAedh-HjsMACLcBGAsYHQ/s16/favicon-16x16.png",
+    "sizes": "16x16",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-YwQBTq6u31Q/YBvm_8py-BI/AAAAAAAACT4/bMob39INzToEchQZPshZO5pXjXOyLp3sACLcBGAsYHQ/s32/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EzF-cj5EtNQ/YBvm_qb86VI/AAAAAAAACT0/afa1FSNvXHYva3iGBByaLt8z3jQzbwBlwCLcBGAsYHQ/s48/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-MBabh6isXd0/YBvm-kZIGBI/AAAAAAAACTo/1z9INj_GyF8MMD4GwskEceebMfnQEEm1gCLcBGAsYHQ/s180/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "2.0"
+  },  {
+    "src": "https://1.bp.blogspot.com/-JbNI3MLRJLE/YBvm-oHJ8_I/AAAAAAAACTk/5JPIM6HmE2kb-trL2FlO7vyTELFjg-70wCLcBGAsYHQ/s192/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-j8S21Grc6vo/YBvm-qFMvkI/AAAAAAAACTs/aZhTIOCubmsadpwvLCT-VL6b8xlqmwDegCLcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "4.0"
+  }]
+}
